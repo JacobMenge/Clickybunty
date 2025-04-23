@@ -30,8 +30,8 @@
 🔹 [Collatz](https://github.com/Clickybunty/Collatz)  
 ➡️ Mathematische Analyse zur Collatz-Vermutung als TeX-Dokumentation
 
-🔒 SecureComm (privat)  
-➡️ Sichere Peer-to-Peer-Kommunikationsplattform mit OAuth2-Login und WebRTC  
+🔹 [SecureComm](https://github.com/Clickybunty/SecureComm)  
+➡️ Sichere Peer-to-Peer-Kommunikationsplattform mit OAuth2-Login und WebRTC
 
 ---
 

@@ -22,6 +22,19 @@
 
 ---
 
+## 📂 Projekte
+
+🔹 [NoSpices](https://github.com/Clickybunty/nospices)  
+➡️ Mehrsprachige Rezeptsuche mit React, Node.js und MariaDB
+
+🔹 [Collatz](https://github.com/Clickybunty/Collatz)  
+➡️ Mathematische Analyse zur Collatz-Vermutung als TeX-Dokumentation
+
+🔹 [SecureComm](https://github.com/Clickybunty/SecureComm)  
+➡️ Sichere Peer-to-Peer-Kommunikationsplattform mit OAuth2-Login und WebRTC
+
+---
+
 ## 📫 Kontakt
 
 💼 LinkedIn: [linkedin.com/in/stevan-menicanin-701b6059](https://www.linkedin.com/in/stevan-menicanin-701b6059/)  

@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C537&width=600&lines=Hallo,+ich+bin+Stevan!;Junior+Full-Stack+%26+DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧)](https://github.com/Clickybunty)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C537&width=600&lines=Hallo,+ich+bin+Stevan!;Junior+Full-Stack+%26+DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧)](https://github.com/JacobMenge)
 
 🔹 **Fachinformatiker für Anwendungsentwicklung**  
 🔹 Leidenschaft für moderne Webentwicklung, DevOps und kreative Tech-Projekte  
@@ -7,12 +7,12 @@
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clickybunty&show_icons=true&theme=transparent&border_color=ffffff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clickybunty&layout=compact&theme=transparent&border_color=ffffff)](https://github.com/Clickybunty/github-readme-stats) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacobMenge&show_icons=true&theme=transparent&border_color=ffffff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobMenge&layout=compact&theme=transparent&border_color=ffffff)](https://github.com/JacobMenge/github-readme-stats) |
 |--------------|--------------|
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Clickybunty&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JacobMenge&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -24,13 +24,13 @@
 
 ## 📂 Projekte
 
-🔹 [NoSpices](https://github.com/Clickybunty/nospices)  
+🔹 [NoSpices](https://github.com/JacobMenge/nospices)  
 ➡️ Mehrsprachige Rezeptsuche mit React, Node.js und MariaDB
 
-🔹 [Collatz](https://clickybunty.github.io/Collatz/)  
+🔹 [Collatz](https://JacobMenge.github.io/Collatz/)  
 ➡️ Mathematische Analyse zur Collatz-Vermutung als TeX-Dokumentation
 
-🔹 [SecureComm](https://github.com/Clickybunty/SecureComm)  
+🔹 [SecureComm](https://github.com/JacobMenge/SecureComm)  
 ➡️ Sichere Peer-to-Peer-Kommunikationsplattform mit OAuth2-Login und WebRTC
 
 ---

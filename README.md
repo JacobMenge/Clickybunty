@@ -27,7 +27,7 @@
 🔹 [NoSpices](https://github.com/Clickybunty/nospices)  
 ➡️ Mehrsprachige Rezeptsuche mit React, Node.js und MariaDB
 
-🔹 [Collatz](https://github.com/Clickybunty/Collatz)  
+🔹 [Collatz](https://clickybunty.github.io/Collatz/)  
 ➡️ Mathematische Analyse zur Collatz-Vermutung als TeX-Dokumentation
 
 🔹 [SecureComm](https://github.com/Clickybunty/SecureComm)  
